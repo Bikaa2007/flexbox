@@ -1,0 +1,24 @@
+
+
+h1 {
+    color : red;
+}
+
+.myDiv{
+    background-color : yellow; 
+    display : flex;
+    justify-content: space-between;  
+}
+
+
+.grid{
+    display : flex;
+    flex-wrap: wrap-reverse;
+    justify-content: flex-end;
+}
+
+.footer{
+    display : flex;
+    justify-content: space-evenly;
+}
+
